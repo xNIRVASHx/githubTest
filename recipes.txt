@@ -6,6 +6,14 @@ pasta
 sandwich
 chicken
 
+beans
+pizza
+
+
 thank you
 
+
+Done my changes
+
 final copy
+
