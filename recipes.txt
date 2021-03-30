@@ -6,4 +6,8 @@ pasta
 sandwich
 chicken
 
+beans
+pizza
+
+
 thank you
